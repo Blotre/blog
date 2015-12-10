@@ -6,12 +6,12 @@ description: In which Blot're Q4 FY2015 is discussed and the future of Blot're i
 asset_path: /assets/2015-7-15-state-of-the-blotre-july-2015
 ---
 
-Good morning and thank you for joining us today. It's an exciting time at [Blot're][blotre] and we're glad to have you with us.
+Good morning, and thank you for joining us today. It's an exciting time at [Blot're][blotre] and we're glad to have you with us.
 
-Today, we're going to cover the performance of Blot're in the recent quarter. We'll start by discussing users and the growth of the Blot're network, before moving on to financials. Finally, as a special treat, you'll get a sneak peek at few pre-alpha products that B-Lab has been working on.
+Today, we're going to cover the performance of Blot're in the recent quarter. We'll start by discussing users and the growth Blot're, before moving on to financials. Finally, as a special treat, you'll get a sneak peek at few pre-alpha products that B-Lab has been working on.
 
 ## Users
-We [launched Blot're][launch] a little over three months ago and the user response has been nothing short of outstanding. Not only has the Blot're userbase grown significantly in raw numbers, but we're also seeing unprecedented levels of user engagement. **People love Blot're. Blot're loves people.**
+We [launched Blot're][launch] a little over three months, ago and the user response has been nothing short of outstanding. Not only has the Blot're userbase grown significantly in raw numbers, but we're also seeing unprecedented levels of user engagement. **People love Blot're. Blot're loves people.**
 
 ### Growth
 In June alone, Blot're **doubled its number of active users**. 
@@ -20,7 +20,7 @@ In June alone, Blot're **doubled its number of active users**.
 
 Certainly nothing to sneeze at.
 
-But what's really exciting, and what may not be clear at first glance, is just how fast Blot're is growing. We didn't believe it ourselves a first. Let's look more closely at the charts. Notice how as we zoom in, the growth rate of Blot're actually increases!
+But what's really exciting, and what may not be clear at first glance, is just how fast Blot're is growing. We didn't believe it ourselves at first. Let's look more closely at the charts. Notice, how as we zoom in, the growth rate of Blot're actually increases!
 
 ![]({{ page.asset_path }}/user2.png)
 
@@ -37,7 +37,7 @@ Incredible!
 If Blot're can sustain infinite or near infinite growth, we project that we will become the world's largest communications platform within the year. 
 
 ### Target Market
-But growth alone means nothing. Advertisers are always calling us up and demanding, "We want millennials! Bring out the millennials!". And boy do we deliver! 
+Advertisers are always calling us up and demanding, "We want the millennials! Bring out the millennials!", and boy do we deliver! 
 
 Blot're is for everyone, but the ideal Blot're user is an urban, western millennial in the top quarter income bracket. This group's disposable income, desire for authentic experiences, and high toaster usage makes them highly coveted within the industry. A billion little snowflakes, all perfectly unique in exactly the same way.
 
@@ -46,29 +46,29 @@ This quarter, over half of all new Blot're users were initially classified as me
 Advertisers have been ecstatic. Major brands are establishing their presence on Blot're too. As someone put it, "If it's not on Blot're, it doesn't exist." We couldn't agree more.
 
 ## Financials
-Money. We at Blot're are but mere children in matters of the dollars and the cents. Our payment is making the world a more colorful place. And so what that we enjoy a particular shade of green most of all? Who doesn't? Oh investor, come share in the color. 
+Money. We at Blot're are but mere children in matters of the dollars and the cents. Our payment is making the world a more colorful place. And so what that we enjoy a particular shade of green most of all? Who doesn't? Oh investor, investor! Come share in the color!
 
 ### Income and Costs
 **Income remained remarkably stable** across the entire quarter.
 
 ![]({{ page.asset_path }}/income.png)
 
-We project that this stability will continue well into next quarter, even as the economy suffers unprecedented levels of volutility.
+We project that this stability will continue well into next quarter, even as the economy suffers unprecedented levels of volatility.
 
 Blot're is growing fast and hungers for capital. Storing all those colors isn't free and we're actively recruiting tech talent, talent who will take Blot're to the next level. We believe that our significant infrastructure and staffing investments will help meet the future needs of Blot're.
 
 Costs do slightly exceed our income at the moment, but, if the infinite growth projected above continues, this should be no problem. We're not worried, and you shouldn't be either.
 
 ### Valuation
-Blot're recently completed a first round of growth financing, during which we **raised twenty million**, one hundred millionths of a dollar in exchange for one eight of one share. Given that Blot're plans to issue approximately five hundred million shares, this gives Blot're, and please remember that this is a conservative estimate, a **two hundred billion dollar valuation**. 
+Blot're recently completed a first round of growth financing, during which we **raised twenty million**, one hundred millionths of a dollar in exchange for one eighth of one share. Given that Blot're plans to issue approximately five hundred million shares, this gives Blot're, and please remember that this is a conservative estimate, a **two hundred billion dollar valuation**. 
 
-However, given the potential size of the IOT market (3.402\*10^38 users), we feel that Blot're is **drastically undervalued**. If Blot're can capture but 1% of the market, and monetize each user for a very conservative average of one dollar per year, we would reach **anual income of 3,000,000,000,000,000,000,000,000,000,000,000,000 dollars**. Now we're talking.
+However, given the potential size of the IoT market (3.402\*10^38 users), we feel that Blot're is **drastically undervalued**. If Blot're can capture but 1% of the market, and monetize each user for a very conservative average of one dollar per year, we would reach **annual income of 3,000,000,000,000,000,000,000,000,000,000,000,000 dollars**. Now we're talking!
 
-Don't worry if you missed out on the initial financing, just don't be a fool again. We'll be staring additional rounds shortly, although, given demand, expect significantly higher prices for a piece of the action.
+Don't worry if you missed out on the initial financing, just don't be a fool again. We'll be starting additional rounds shortly, although, given demand, expect significantly higher prices for a piece of the action.
 
 
 ## Future Development
-Blot're [killed the past][launch]. And the present is dead, a has-been. **The future is where we  are focused as a company**. And today, we're excited to offer you a sneak peek at a few projects our colleges at B-Lab are hacking on.
+Blot're [killed the past][launch]. And the present is dead, a has-been. **The future is where we  are focused as a company**. And today, we're excited to offer you a sneak peek at a few projects our colleagues at B-Lab are hacking on.
 
 ### Project Blot'AR
 Blot're has always been about connecting your physical world with your digital life. But why limit Blot're to cyberspace? Your physical world goes into Blot're, so why can't Blot're go into your physical world? Everything color. Everything Blot're. That's the idea behind Project Blot'AR.
@@ -104,4 +104,4 @@ Our userbase is growing and we have successfully attracted our target demographi
 Suddenly, the future is looking a whole lot Blot're.
 
 [blotre]: https://blot.re
-[launch]: http://blog.mattbierner.com/blotre/
+[launch]: http://blog.blot.re/introducting-blotre/
