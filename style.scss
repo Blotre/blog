@@ -5,9 +5,12 @@
 // IMPORTS
 //
 
+
 @import "reset";
 @import "variables";
 // Syntax highlighting @import is at the bottom of this file
+
+@import url(//fonts.googleapis.com/css?family=Lato:300,400,700);
 
 /**************/
 /* BASE RULES */
@@ -19,8 +22,10 @@ html {
 
 body {
 	background: $white;
-  font: 18px/1.4 $helvetica;
-  color: $darkGray;
+    font-family: $helveticaNeue;
+    font-size: 16px;
+    line-height: 1.25em;
+    color: $darkGray;
 }
 
 .container {
@@ -31,12 +36,11 @@ body {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: $helveticaNeue;
-  color: $darkerGray;
-  font-weight: bold;
+    font-family: $lato;
+    color: $darkerGray;
+    font-weight: 300;
 
   line-height: 1.7;
-  margin: 1em 0 15px;
   padding: 0;
 
   @include mobile {
@@ -52,11 +56,12 @@ h1 {
 }
 
 h2 {
-  font-size: 24px;
+  font-size: 30px;
 }
 
 h3 {
-  font-size: 20px;
+  font-size: 24px;
+  line-height: 1;
 }
 
 h4 {
@@ -65,7 +70,7 @@ h4 {
 }
 
 p {
-  margin: 15px 0;
+  margin: 0.2em 0 1.2em 0;
 }
 
 a {
@@ -150,13 +155,8 @@ img {
 // .masthead
 //
 
-.wrapper-masthead {
-  margin-bottom: 50px;
-}
-
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
 
   @include mobile {
     text-align: center;
@@ -172,7 +172,7 @@ img {
         width: 0;
         height: 0;
         border: 40px solid transparent;
-        border-bottom-color: #333;
+        border-bottom-color: $darkGray;
         position: relative;
         top: -40px;
 
@@ -187,7 +187,7 @@ img {
         width: 0;
         height: 0;
         border: 40px solid transparent;
-        border-top-color: #333;
+        border-top-color: $darkGray;
     }
 }
 
@@ -248,12 +248,21 @@ nav {
 //
 
 .posts > .post {
-  padding-bottom: 2em;
+    padding: 1em 0;
   border-bottom: 1px solid $lightGray;
+  
+  .post-title {
+    text-align: left;
+    margin-top: 0;
+    margin-bottom: 0em;
+  }
+  
+  .entry > *:first-child {
+    margin-top: 0;
+  }
 }
 
 .posts > .post:last-child {
-  padding-bottom: 1em;
   border-bottom: none;
 }
 
@@ -267,26 +276,50 @@ nav {
     font-style: italic;
   }
 
-  .comments {
-    margin-top: 10px;
-  }
-
   .read-more {
     text-transform: uppercase;
     font-size: 15px;
   }
 }
 
+.post-meta {
+    color: #aaa;
+    font-size: 0.9em;
+}    
+
+.post-main {
+    .post-title {
+        margin-top: 0;
+        text-align: center;
+    }
+    
+    .post-meta {
+        text-align: center;
+    }
+    
+    header {
+        margin-bottom: 2em;
+    }
+}
+
+.post .entry {
+    h2 {
+        border-bottom: 1px solid #ddd;
+        line-height: 1.2em;
+    }
+
+}
+
 .wrapper-footer {
   margin-top: 50px;
-  border-top: 1px solid #ddd;
-  border-bottom: 1px solid #ddd;
-  background-color: $lightGray;
+  border-top: 1px solid $lightGray;
 }
 
 footer {
   padding: 20px 0;
   text-align: center;
+  font-size: 80%;
+  color: #aaa;
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
