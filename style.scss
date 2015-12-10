@@ -269,6 +269,10 @@ img {
     header {
         margin-bottom: 1.4em;
     }
+    
+    footer {
+        margin-top: 3em;
+    }
 }
 
 .post .entry {
@@ -279,12 +283,22 @@ img {
 
 }
 
+.post-nav > * {
+    width: 50%;
+    min-height:1px;
+    float: left;
+}
+
+.post-nav .next {
+    text-align: right;
+}
+
 .wrapper-footer {
   margin-top: 50px;
   border-top: 1px solid $lightGray;
 }
 
-footer {
+.page-footer {
   padding: 20px 0;
   text-align: center;
   font-size: 80%;
