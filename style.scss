@@ -157,10 +157,6 @@ img {
 
 .masthead {
   padding: 20px 0;
-
-  @include mobile {
-    text-align: center;
-  }
 }
 
 .site-avatar {
@@ -207,41 +203,13 @@ img {
 }
 
 .site-description {
-  margin: -5px 0 0 0;
-  color: $gray;
-  font-size: 16px;
-
-  @include mobile {
-    margin: 3px 0;
-  }
-}
-
-nav {
-  float: right;
-  margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
-  font-size: 18px;
-
-  @include mobile {
-    float: none;
-    margin-top: 9px;
-    display: block;
-    font-size: 16px;
-  }
-
-  a {
-    margin-left: 20px;
+    margin: -5px 0 0 0;
     color: $darkGray;
-    text-align: right;
-    font-weight: 300;
-    letter-spacing: 1px;
-
-    @include mobile {
-      margin: 0 10px;
-      color: $blue;
-    }
-  }
+    font-size: 16px;
+    font-weight: light;
+    font-family: $lato;
 }
+
 
 //
 // .main
@@ -253,7 +221,7 @@ nav {
   
   .post-title {
     text-align: left;
-    margin-top: 0;
+    margin-top: -5px;
     margin-bottom: 0em;
   }
   
@@ -290,6 +258,7 @@ nav {
 .post-main {
     .post-title {
         margin-top: 0;
+        margin-bottom: -5px;
         text-align: center;
     }
     
@@ -298,7 +267,7 @@ nav {
     }
     
     header {
-        margin-bottom: 2em;
+        margin-bottom: 1.4em;
     }
 }
 
