@@ -77,26 +77,26 @@ Reality is complex and often hard to understand, but Blot're made reality simple
 
 ![]({{ page.asset_path }}/blot-ar.png)
 
-Using a revolutionary holographic headset, Project Blot'AR overlays Blot're streams on real world objects. Curious about the current temperature? Just glance up at the sky blot. Ahh, #157500, very nice. Can't see your toast through the toaster? Check its blot. #804000. Perfect toast once again! Wondering if a friend is feeling down? Peek at his blot. #2ce0fb, hmm, maybe you should check if everything is OK. 
+Using a revolutionary holographic headset, Project Blot'AR overlays Blot're streams on real world objects. Curious about the current temperature? Just glance up at the sky blot. Ahh, `#157500`, very nice. Can't see your toast through the toaster? Check its blot. `#804000`. Perfect toast once again! Wondering if a friend is feeling down? Peek at his blot. `#2ce0fb`, hmm, maybe you should check if everything is OK. 
 
 Understand everything you need to know about reality in a glance. Offload your thinking. That's the promise of Project Blot'AR. It's reality, only Blot're.
 
 ### Blot'Car
 Millennials want more personalized, more bespoke transportation, and creaky old companies like Uber are struggling to adapt to this new world. We revolutionized the IoT with Blot're, so what's to stop us from reinventing another industry or two?
 
-The Blot'Car is transportation for the Blot're generation. Each Blot'Car is a fully autonomous, electric vehicle. The real inovation is how the Blot'Car network integrates with Blot're and your life.
+The Blot'Car is transportation for the Blot're generation. Each Blot'Car is a fully autonomous electric vehicle. The real innovation is how the Blot'Car network integrates with Blot're and your life.
 
 Users routinely say that planning is the biggest pain of transportation. All that smartphone tapping just to get a ride across town? Please. The Blot'Car takes you places you never knew you wanted to go, and brings you together with people you never knew you wanted to meet.
 
 Say you want to meet up with a friend who lives across town. All that's required is that you and your friend set your Blot're statuses to the same color. Blot'Car constantly monitors your city's color graph and attempts to optimize it spatially by clustering like colors together. 
 
-If a Blot'Car detects a user in a non-optimal location, it will assist them. The fully electric Blot'Cars can move silently along the streets for a more spontaneous pickup experience. Once a Blot'Car is near the non-optimal user, it deploys a user-assistance lasso to engaged and snugly fasten them to the vehicle. The Blot'Car then deposits them in a locally optimal location based on their color. Simple.
+If a Blot'Car detects a user in a non-optimal location, it will assist them. The fully electric Blot'Cars can move silently along the streets for a more spontaneous pickup experience. Once a Blot'Car is near the non-optimal user, it deploys our patented user-assistance lasso to engaged and snugly fasten them to the vehicle. The Blot'Car then deposits them in a locally optimal location based on their color. Simple.
 
 The best part is that Blot'Car will be free for all Blot're users. Additionally, a small fleet of Blot'Cars will operate in trial-mode for users without a Blot're account. Trial-mode users will be optimized to the edges of the network until they sign up for a Blot're account and get color.
 
 Businesses will be able to purchase Blot'Car colors and map these to fixed locations. If a company like Target purchased red for example, they could suggest that the Blot'Car network bring any user with a red or reddish status to a Target store. We anticipate that Blot'Car color purchases will become a significant percentage of our income in the coming years.
 
-Blot'Car is planned to begin limited trials in 2016.
+Blot'Car is scheduled to begin limited trials next year.
 
 ## Looking Forward
 Our userbase is growing and we have successfully attracted our target demographic to Blot're. The two hundred billion dollar initial valuation of Blot're raised some eyebrows, but mainly because of how low it was. This should be corrected as we progress through additional rounds of financing. And we have some really great stuff in the pipeline that will break Blot're out of your browser and into your world.
