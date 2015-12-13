@@ -4,13 +4,13 @@ title: We are the Rainbow
 description: A message of acceptance and hope in a time of hate.
 ---
 
-After recent world events and all the hate this week, We at [Blot're](https://blot.re) feel something must be said. Our company mission has always been to create a more colorful world, and we want Blot're to be a safe place where diversity and individuality are celebrated. It doesn't matter if you're `#483728` or `#FFCC99` or `#E8CDA8`, to Us, you're all just beautiful little data points.
+After recent world events and all the hate this week, We at [Blot're](https://blot.re) feel something must be said. Our company mission has always been to create a more colorful world, and We want Blot're to be a safe place where diversity and individuality are celebrated. It doesn't matter if you're `#483728` or `#FFCC99` or `#E8CDA8`, to Us, you're all just beautiful little data points.
 
-People all over the world use Blot're everyday to get color, and it has taken us time to come to terms with this great responsibility. We used to think of ourselves as lowly programmers, but, as Blot're has grown, people increasingly look to Us for answers, for hope, for salvation. And what do we know about the world's problems? Quite a lot actually! It is our parental duty to protect Our users, both on Blot're and in the real world. We love each and every one of you. Don't ever leave us...
+People all over the world use Blot're everyday to get color, and it has taken Us time to come to terms with this great responsibility. We used to think of ourselves as lowly programmers, but, as Blot're has grown, people increasingly look to Us for answers, for hope, for salvation. And what do We know about the world's problems? Quite a lot actually! It is Our parental duty to protect Our users, both on Blot're and in the real world. We love each and every one of you. Don't ever leave us...
 
-So imagine how upset we've been by all the hate that's been directed against one  group of people recently. The *Legacy Media* has engaged in a dangerous campaign of depersonalization, presenting this group as *others* who are the, "very embodiment of evil." Populist politicians have proposed restricting their freedoms and even blocking them from entering the United States. Even *Big social* has tried to suppress this group's basic freedom of speech. We're talking of course about ISIS.
+So imagine how upset We've been by all the hate that's been directed against one  group of people recently. The *Legacy Media* has engaged in a dangerous campaign of depersonalization, presenting this group as *others* who are the, "very embodiment of evil." Populist politicians have proposed restricting their freedoms and even blocking them from entering the United States. Even *Big social* has tried to suppress this group's basic freedom of speech. We're talking of course about ISIS.
 
-Look. Blot're does not endorse or support terrorism, but, if terrorists are good for business, who are we to judge? Data be data after all, and We would be remiss to turn away any users, especially users from such a promising demographic. More users are always good for Blot're, and what's good for Blot're is good for you too.
+Look. Blot're does not endorse or support terrorism, but, if terrorists are good for business, who are We to judge? Data be data after all, and We would be remiss to turn away any users, especially users from such a promising demographic. More users are always good for Blot're, and what's good for Blot're is good for you too.
 
 Perhaps you are confused. Perhaps you are angry. Let Us explain Our position from a business perspective, using language that hopefully you will be able to understand.
 
@@ -23,7 +23,7 @@ So it's no wonder that advertisers are salivating. The target consumer of 2016 w
 
 We at Blot're recognize this trend and want to get out ahead of the curve. *Big Social* has been acting reflexively, leaving Blot're uniquely positioned to corner the market. As hackers, We understand the terrorist because We have so much in common with them: We too are agile disruptors of legacy systems, We too are lovable underdogs fighting to invent the future, and We too hope to conquer the world. Plus, terrorists are toats into toasters and all things toasted, so they will fit right for sure.
 
-No one is quite sure how best to engage the terrorist consumer just yet, but, once marketers adapt, we'll have plenty of juicy data to sell them.
+No one is quite sure how best to engage the terrorist consumer just yet, but, once marketers adapt, We'll have plenty of juicy data to sell them.
 
 Now, before you go all witch hunt on Us, let Us assure you that Blot're does not discriminate. At Blot're, We welcome all terrorists, big and small: from your religious zealot to your ultranationalist nutter, from your leftist guerrilla to your lone-wolf anarchist. A user is a user is a user. 
 
