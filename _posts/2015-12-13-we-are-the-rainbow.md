@@ -34,12 +34,12 @@ Don't worry! Old Big Brother Blot're still loves you millennials just as much as
 
 We see similar usage spikes on Blot're during attacks. Our users can't wait around to get their news through text or photos, they want the latest, most up to date status on the situation in an easily comprehensible form. That's what Blot're offers. But just imagine how much more engaging Blot're could be if you could interact with the perpetuators of these attacks directly! ISIS would be all like `#000000` and then all `#ff0000`, and you would be all like `#0000ff`, and the next day everyone would be all `#ffffff` to show their solidarity. (We meanwhile would be counting all the `#00ff00`.)
 
-Even better, numerous studies have shown that acts of terror actually drive consumer activity. People watch hostages being beheaded and think, "You know, I really could use a new hat. I wonder if Amazon's got any sales going on?". Or, while watching a new attack unfold on Twitter, users just happen to click on conveniently placed ads for bespoke survival kits.
+Even better, numerous studies have shown that acts of terror actually drive consumer activity. People watch hostages being beheaded and think, "You know, I really could use a new hat. I wonder if Amazon's got any sales going on?" Or, while watching a new attack unfold on Twitter, users just happen to click on conveniently placed ads for bespoke survival kits.
 
-No, all in all, advertisers grow almost as giddy as a CNN newscaster at the words, "mass casualty", or "unidentified gunmen". 
+No, all in all, advertisers grow almost as giddy as a CNN newscaster at the words, "mass casualty", or, "unidentified gunmen". 
 
 ## All are Welcome
-Now, you may be thinking, "Yo Blot're, this all sounds nice and good, but what's stodgy old Director Comey gonna say about this?" Pshaw! We are defending freedom of speech. We are standing up for the little guy. We are fighting for the constitution. Is this not the entrepreneurial spirit? Is this not Our fiduciary duty? It's all for you. And if We just happen to make a few extra dollars on the side, is this not a just reward for such a great sacrifice? 
+You may be thinking, "Yo Blot're, this all sounds nice and good, but what's stodgy old Director Comey gonna say about this?" Pshaw! We are defending freedom of speech. We are standing up for the little guy. We are fighting for the constitution. Is this not the entrepreneurial spirit? Is this not Our fiduciary duty? It's all for you. And if We just happen to make a few extra dollars on the side, is this not a just reward for such a great sacrifice? 
 
 Yes, courting terrorists is the right move for Blot're. It make sense from a business perspective, plus it results in a better experience for you too. This is the future. 
 
