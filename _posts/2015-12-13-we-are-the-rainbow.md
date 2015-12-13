@@ -4,7 +4,7 @@ title: We are the Rainbow
 description: A message of acceptance and hope in a time of hate.
 ---
 
-After recent world events and all the hate this week, We at Blot're feel something must be said. Our company mission has always been to create a more colorful world, and we want Blot're to be a safe place where diversity and individuality are celebrated. It doesn't matter if you're `#483728` or `#FFCC99` or `#E8CDA8`, to Us, you're all just beautiful little data points.
+After recent world events and all the hate this week, We at [Blot're](https://blot.re) feel something must be said. Our company mission has always been to create a more colorful world, and we want Blot're to be a safe place where diversity and individuality are celebrated. It doesn't matter if you're `#483728` or `#FFCC99` or `#E8CDA8`, to Us, you're all just beautiful little data points.
 
 People all over the world use Blot're everyday to get color, and it has taken us time to come to terms with this great responsibility. We used to think of ourselves as lowly programmers, but, as Blot're has grown, people increasingly look to Us for answers, for hope, for salvation. And what do we know about the world's problems? Quite a lot actually! It is our parental duty to protect Our users, both on Blot're and in the real world. We love each and every one of you. Don't ever leave us...
 
@@ -15,7 +15,7 @@ Look. Blot're does not endorse or support terrorism, but, if terrorists are good
 Perhaps you are confused. Perhaps you are angry. Let Us explain Our position from a business perspective, using language that hopefully you will be able to understand.
 
 ## Terrorists are the New Millennials
-Our advertising partners have spoken, and their message is clear: terrorists are the new millennials. Your modern terrorist has plenty of disposable income, is a digital native, and strongly desires authentic, meaningful experiences. Sound familiar? Oh, and they are incredibly insecure too, constantly seeking praise and attention for their bravado. Advertisers love insecurity. 
+Our advertising partners have spoken and their message is clear: terrorists are the new millennials. Your modern terrorist has plenty of disposable income, is a digital native, and strongly desires authentic, meaningful experiences. Sound familiar? Oh, and they are incredibly insecure too, constantly seeking praise and attention for their bravado. Advertisers love insecurity. 
 
 Furthermore, what better fanboy than the humble terrorist? They will literally blow themselves up to defend a brand. Now *that's* user engagement for you. And did millennials ever go around torturing and executing people who did not support their taste in fashion? Not that We've heard. 
 
