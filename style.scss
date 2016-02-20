@@ -280,7 +280,22 @@ img {
         border-bottom: 1px solid #ddd;
         line-height: 1.2em;
     }
+    
+    img {
+        display: block;
+        margin: 0 auto;
+    }
 
+    figure {
+        position: relative;
+        padding-bottom: 0.8em;
+        padding-top: 0.2em;
+    }
+
+    figure img {
+        padding-bottom: 0.2em;
+        max-height: 100vh;
+    }
 }
 
 .post-nav > * {

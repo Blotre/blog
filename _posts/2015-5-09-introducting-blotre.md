@@ -1,8 +1,6 @@
 ---
 layout: post
-title: Introducing Blot're
-
-asset_path: /assets/2015-5-09-introducting-blotre
+title: "Introducing Blot're"
 ---
 
 Social networking is dead. And good riddance. It's 2015, ain't nobody got time for all that text and all those pixels. And frankly, there just aren't enough people in the world to justify further investment.
@@ -14,7 +12,7 @@ Enter the IoT.
 ## A Revolution, Toasted 
 Studies show that millennials love toasters. 
 
-![]({{ page.asset_path }}//Screen-Shot-2015-05-05-at-11-05-30-PM.png)
+{% include image.html file="Screen-Shot-2015-05-05-at-11-05-30-PM.png" %}
 
 So it's no wonder that the Internet of Toasters (IoT) is the hot new thing for tech companies big and small. There's just one minor problem: they have no clue what the hell they are talking about. Simply put, they are too old.
 
@@ -32,7 +30,7 @@ Through a revolutionary context aware encoding system based on decades of machin
 
 ### All Is Toast
 
-![]({{ page.asset_path }}//cool-food-hipster-indie-Favim-com-925726.jpg)
+{% include image.html file="cool-food-hipster-indie-Favim-com-925726.jpg" %}
 
 But what is a toaster? Is a toaster just a heating element inside of a metal enclosure, perhaps with a few dials or buttons? Or is a toaster defined by what it does?
 
@@ -50,11 +48,11 @@ We just built Blot're. Use it however you like.
 ## Blot're
 Enough talk. Blot're is already live at [blot.re][blotre].
 
-![Wow! such flat. so color. many awesomes]({{ page.asset_path }}//Screen-Shot-2015-05-09-at-11-38-12-AM.png)
+{% include image.html file="Screen-Shot-2015-05-09-at-11-38-12-AM.png" description="Wow! such flat. so color. many awesomes" %}
 
 It's free. All you need is a Google or Twitter account to sign in.
 
-![]({{ page.asset_path }}//Screen-Shot-2015-05-09-at-12-46-16-PM.png)
+{% include image.html file="Screen-Shot-2015-05-09-at-12-46-16-PM.png" %}
 
 The rest is up to you.
 

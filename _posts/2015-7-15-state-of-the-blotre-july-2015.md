@@ -2,8 +2,6 @@
 layout: post
 title: State of the Blot're - July 2015
 description: In which Blot're Q4 FY2015 is discussed and the future of Blot're is detailed.
-
-asset_path: /assets/2015-7-15-state-of-the-blotre-july-2015
 ---
 
 Good morning, and thank you for joining us today. It's an exciting time at [Blot're][blotre] and we're glad to have you with us.
@@ -16,21 +14,21 @@ We [launched Blot're][launch] a little over three months, ago and the user respo
 ### Growth
 In June alone, Blot're **doubled its number of active users**. 
 
-![]({{ page.asset_path }}/user1.png)
+{% include image.html file="user1.png" %} 
 
 Certainly nothing to sneeze at.
 
 But what's really exciting, and what may not be clear at first glance, is just how fast Blot're is growing. We didn't believe it ourselves at first. Let's look more closely at the charts. Notice, how as we zoom in, the growth rate of Blot're actually increases!
 
-![]({{ page.asset_path }}/user2.png)
+{% include image.html file="user2.png" %} 
 
 In fact, the **growth rate of Blot're approaches INFINITY** the closer you examine the data.
 
-![]({{ page.asset_path }}/user3.png)
+{% include image.html file="user3.png" %} 
 
-![]({{ page.asset_path }}/user4.png)
+{% include image.html file="user4.png" %} 
 
-![]({{ page.asset_path }}/user5.png)
+{% include image.html file="user5.png" %} 
 
 Incredible!
 
@@ -51,7 +49,7 @@ Money. We at Blot're are but mere children in matters of the dollars and the cen
 ### Income and Costs
 **Income remained remarkably stable** across the entire quarter.
 
-![]({{ page.asset_path }}/income.png)
+{% include image.html file="income.png" %} 
 
 We project that this stability will continue well into next quarter, even as the economy suffers unprecedented levels of volatility.
 
@@ -75,7 +73,7 @@ Blot're has always been about connecting your physical world with your digital l
 
 Reality is complex and often hard to understand, but Blot're made reality simple. So project Blot'AR brings the same color quantization you know and love from Blot're into the real world.
 
-![]({{ page.asset_path }}/blot-ar.png)
+{% include image.html file="blot-ar.png" %} 
 
 Using a revolutionary holographic headset, Project Blot'AR overlays Blot're streams on real world objects. Curious about the current temperature? Just glance up at the sky blot. Ahh, `#157500`, very nice. Can't see your toast through the toaster? Check its blot. `#804000`. Perfect toast once again! Wondering if a friend is feeling down? Peek at his blot. `#2ce0fb`, hmm, maybe you should check if everything is OK. 
 
