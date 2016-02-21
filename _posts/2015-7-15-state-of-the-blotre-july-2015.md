@@ -6,7 +6,7 @@ description: In which Blot're Q4 FY2015 is discussed and the future of Blot're i
 
 Good morning, and thank you for joining us today. It's an exciting time at [Blot're][blotre] and we're glad to have you with us.
 
-Today, we're going to cover the performance of Blot're in the recent quarter. We'll start by discussing users and the growth Blot're, before moving on to financials. Finally, as a special treat, you'll get a sneak peek at few pre-alpha products that B-Lab has been working on.
+Today, we're going to cover the performance of Blot're in the recent quarter. We'll start by discussing users and the growth Blot're, before moving on to financials. Finally, as a special treat, you'll get a sneak peek at a few pre-alpha products that B-Lab has been working on.
 
 ## Users
 We [launched Blot're][launch] a little over three months, ago and the user response has been nothing short of outstanding. Not only has the Blot're userbase grown significantly in raw numbers, but we're also seeing unprecedented levels of user engagement. **People love Blot're. Blot're loves people.**
