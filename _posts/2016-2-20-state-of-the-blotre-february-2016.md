@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "State of the Blot're - February 2016"
-description: "In which Blot're Q2 FY2016 is discussed and an exciting new company direction is revealed."
+description: "In which Blot're FY2016 P2 is discussed and an exciting new company direction is revealed."
 ---
 
 Good morning and thank you for joining Us today. Even as the tech industry has entered a period of unprecedented volatility, [Blot're][blotre] has continued to grow briskly. There have been a few minor growing pains, but it's nothing to worry about! Every challenge is really a new opportunity, and We're confident that Blot're will continue to deliver impressive results.
