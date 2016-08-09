@@ -97,15 +97,15 @@ While other social networks treat the past as little more than a dusty old libra
 
 But the past is not just readonly! With *Memo'res*, you can overwrite old blots, post new updates, or even create and delete entire streams from any point in time. These updates are indistinguishable from original events, and all updates to the past are immediately reflected for all Blot're users.
 
-Keeping the past up to date can be a lot of work. So, to take some of the pressure off Our users, We plan to roll out "Promoted *Memo'res*". Promoted *Memo'res* are updates to the past authored by Our advertising partners for the benefit of, and on behalf of, Our users.
+Keeping the past up to date can be a lot of work, so, to take some of the pressure off Our users, We plan to offer *Promoted Memo'res*. *Promoted Memo'res* are updates to the past authored by Our advertising partners for the benefit of, and on behalf of, Our users.
 
-Let's say you purchase one thousand *Promoted Memo'res*. Each promoted Memo're entitles you to alter a past status update of a stream, or or add a historical status update of your choosing to any stream. 
+Let's say a company purchases ten *Promoted Memo'res* from Blot're. Each *Promoted Memo're* entitles them to alter the status of any stream at any point in the past (the past being defined as anytime over ten milliseconds ago.) The company could use a *Promoted Memo're* to correct a negative blot that a user mistakenly made about a product, or save a user time by inserting a new blot to promote a product that the user has been enjoying, all without bothering the user at all! *Memo'res* and color translation opens up a whole new world for advertisers.  
 
-Going forward, We also plan to extend *Memo'res* to the future by leveraging ToastAi to determine what users will post. For a small additional fee, Advertising partners will also be able to help maintain the future using *Promoted Memo'res*.
+Going forward, We also plan to extend *Memo'res* to the future by leveraging ToastAi to determine what users will post. For a small additional fee, advertising partners will also be able to help maintain the future using *Promoted Memo'res*.
 
 
 ## Blot're be Blot're
-Miserable little cynics may see the mainstreamening as a "sell out". That's a terrible, nasty term that is not at all accurate: We are simply exchanging Our core values for a bit more #00ff00. What's wrong with a little more color in the world, especially color of that particular shade of green? This is the future!
+Miserable little cynics may see the mainstreamening as a "sell out", but that's a terrible, nasty term that is not at all accurate: We are simply exchanging Our core values for a bit more `#00ff00`. What's wrong with a little more color in the world, especially color of that particular shade of green? This is the future!
 
 Yes, with the mainstreamening, Blot're is not so much changing for the masses, but rather changing the masses for Blot're. It's a Blot're world out there, people just don't know it yet.
 
