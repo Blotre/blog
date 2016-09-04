@@ -46,7 +46,7 @@ The M.T.V is going to revolutionize Blot're. Instead of tying Blot're to a singl
 So step aside millennials! you're already dead to Us – and bring on Gen-Z!
 
 ### Bring on the Z
-Blot're understands Gen-Z because We are Gen-Zers ourselves. While Our millennial forebears were into toasters, Our's is the toaster oven generation.
+Blot're understands Gen-Z because We are Gen-Zers Ourselves. While Our millennial forebears were into toasters, Our's is the toaster oven generation.
 
 We still love toasting and all things toasted of course, but the toaster itself is just so conventional and restrictive. A toaster takes only fixed sized slices of bread, and prudishly only allows toasting two pieces at a time. But not all breads want to be sliced, or even come in loaves! What about bagels or muffins or naan? Our generation accepts them all. And can not these too be toasted? 
 

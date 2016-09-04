@@ -31,7 +31,7 @@ That's not to say that there haven't been challenges over the last few months he
 
 
 ## Financial Results and User Numbers
-To help facilitate transparency, we've made a few small, tiny, little changes to our reporting this period. These should not effect you, the educated and knowledgable investor, but We want to keep every thing above board. Honesty and all that, remember?
+To help facilitate transparency, we've made a few small, tiny, little changes to Our reporting this period. These should not effect you, the educated and knowledgable investor, but We want to keep every thing above board. Honesty and all that, remember?
 
 Starting this quarter, we've decided to no longer use decimals. After all, when dealing with numbers in the tens of billions, what's a few cents between friends? *That's* a good sort of problem to have. We've also decided to stop using units. This gets you right to the important part of the data, the numbers. Why muddle up all those beautiful numbers with units and other cruft?
 
