@@ -9,7 +9,7 @@ And We're back!
 Yes, despite all the rumors, Blot're is doing better than ever and bringing the numbers like never before. We also have an amazing vision for the future of Blot're to share with you today. Let's just say: don't be surprised when Grandma pops into your color graph soon.
 
 ## A Word Between Friends
-But before the business at hand, cuddle on in close to big o' brother Blot're for a moment for a friendly, yet frank, discussion of truth. 
+But before the business at hand, cuddle on in close to big ol' brother Blot're for a moment for a friendly, yet frank, discussion of truth. 
 
 There's been a lot of disinformation circulating about Blot're recently: from headlines claiming, "Agro-rebrand Tearing Blot're Apart"; to pundits tossing around crazy terms like "Zexit" and all sorts of other intellectual jibber-jabber; to scandalous tell-alls of "Blot're employees" recounting the most absurd of absurdities. There's not a word of truth in any of it. We know that *you* would never fall for such foolishness, but Let's just make sure there are no misunderstandings among Us friends, K?
 
