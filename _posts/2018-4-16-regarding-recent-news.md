@@ -24,7 +24,7 @@ Our poor Zs were hit especially hard by these revelations. They had always been 
 
 And you didn't just let Us at Blot're down. We had always assured Our advertising partners that Blot're was different. None of those riff-raff users you find on Big Social here. So when We finally had to break the news to them, they were just devastated. We watched the hope die in their eyes and the light go out in their little souls. You turned them from beautiful innocent children who delighted in the world into cynical adults who would hustle their own mothers.
 
-Still, how can We stay mad at you? You know not what you do. And. in some strange way, We can't help but feel responsible for not doing enough to proactively protect you from yourselves. Never again. Going forward, We want you to be able to sleep safe and secure knowing that big brother Blot're will always be there.
+Still, how can We stay mad at you? You know not what you do. And, in some strange way, We can't help but feel responsible for not doing enough to proactively protect you from yourselves. Never again. Going forward, We want you to be able to sleep safe and secure knowing that big brother Blot're will always be there.
 
 To this end, We've already been taking action behind the scenes. And today, We also want to share with you a few of the next steps that We will be taking together to prevent this from ever happening again:
 
