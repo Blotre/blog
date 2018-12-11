@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "State of the Blot're - August 2016"
-description: "In which Blot're exceeds all exceptions and discovers and an exciting new market opportunity."
+description: "In which Blot're exceeds all exceptions and discovers an exciting new market opportunity."
 ---
 
 And We're back! 
