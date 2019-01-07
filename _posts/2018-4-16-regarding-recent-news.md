@@ -10,13 +10,13 @@ No doubt you have been following the recent news. We know that you are scared an
 
 What happened recently was a break of Blot're's trust. More importantly, it was a breach of the trust that We placed in you. We gave you Blot're. We provide color to the world! We even agreed to let you send Us your data. And We took everything you sent Us, at no cost! We sorted it for you, kept it nicely archived, and sent it to be analyzed by some of the smartest and most important companies and countries in the world. And how do you repay us? You go and get *influenced*.
 
-We started to suspect something was up back in 2016: purple's sudden spike in popularity; the uncommonly high number of new users flashing a #f0f0f0. But We took it all in stride, even as We watched you start to tear yourselves apart. Because We were optimists at heart. We believed in humanity. We believed in You. Never in Our wildest dreams could We have imagined The Truth.
+We started to suspect something was up back in 2016: purple's sudden spike in popularity; the uncommonly high number of new users flashing a #f0f0f0. But We took it all in stride, even as We watched you start to tear yourselves apart. Because We were optimists at heart. We believed in humanity. We believed in You. Never in Our wildest dreams could We have imagined *The Truth*.
 
 So We were as surprised as anybody when the news broke two weeks ago. Fake colors? Color supremacists? Election meddling? Impossible! That's not the Blot're We know.
 
-Still, We had to make sure. So We locked Our best scientist in a room and set them loose. Using the revolutionary Blot'AI, they analyzed everything, including all the data you've been sending to Us over the years. And, a week later they finally emerged with an answer. No, they emerged with The Truth!
+Still, We had to make sure. So We locked Our best scientist in a room and set them loose. Using the revolutionary Blot'AI, they analyzed everything, including all the data you've been sending to Us over the years. And, a week later they finally emerged with an answer. No, they emerged with *The Truth*!
 
-Look, there's no easy way to say it, so We're just going to come right out with it. The Truth is: you are all horrible people. Just the worst. What is wrong with you? 
+Look, there's no easy way to say it, so We're just going to come right out with it. The truth is: you are all horrible people. Just the worst. What is wrong with you? 
 
 The news had been correct. All of it, and then some. The data that you'd been sending Us—all those bytes and bits that We so trustingly stored and even forwarded on to our knowledgable yet ever so innocent advertising partners—revealed that you were all vile, self-centered wretches. Many of you even have quite unspeakable color fetishes. It was you who let those bad actors onto Blot're. It was you who shared those fake colors. It was you who let yourselves get influenced and then go stumbling about the world voting and generally causing all sorts of trouble. 
 
