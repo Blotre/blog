@@ -22,7 +22,7 @@ People should have simple and intimate places where they gladly spend all of the
 
 **Interoperability**
 
-People want to be able to choose which services they use to communicate with people. Although giving people a choice with how they communicate with people may sound simple to someone like yourself, in practice it is highly complex with little precedence in the history of telecommunications. But today are smartest minds are already hard at work so that people can communicate with people using their choice of Blot're backed people communication platforms.
+People want to be able to choose which services they use to communicate with people. Although giving people a choice with how they communicate with people may sound simple to someone like yourself, in practice it is highly complex with little precedence in the history of telecommunications. But today our smartest minds are already hard at work so that people can communicate with people using their choice of Blot're backed people communication platforms.
 
 To achieve this, Blot're will be focusing on interoperability. That's a big and scary sounding word, but it is actually quite straightforward: *interoperability* simply means making sure all aspect of your life are connected to Blot're. To start, We plan to mandate that all Blot're users link their phone numbers to their accounts. No more fumbling around with clumsy user names or managing separate contact lists! That's the kind of interoperability that We're talking about.
 
