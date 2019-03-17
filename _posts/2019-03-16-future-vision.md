@@ -12,7 +12,7 @@ Blot're helps people connect over the internet. You can think of Blot're as the 
 
 Now, some people claim that Blot're has lost touch. They say that Blot're—with Our talk of cyber living-rooms—is just not with it any more, like some thirty-something billionaire bro running a global corporate state but still pretending it's all one big fratty hackathon. Damn; that's a low blow if We've ever heard one.
 
-Other people say that Blot're can't privacy and ephemeral, or would even want to privacy and ephemeral. But let Us tell you right now: Blot're has privacy and ephemeraled since Day Zero. Don't tell us We can't ephemeral! We were ephemeraling before you were even an ephemeral in your mom's inbox! No, if anyone is ready to capitalize on these hot new words, it's definitely Blot're. And besides, where else are you gonna go? Facebook? Phht! What are you, a geriatric Russian bot or something? 
+Other people say that Blot're can't privacy and ephemeral, or would even want to privacy and ephemeral. But let Us tell you right now: Blot're has privacied and ephemeraled since Day Zero. Don't tell us We can't ephemeral! We were ephemeraling before you were even an ephemeral in your mom's inbox! No, if anyone is ready to capitalize on these hot new words, it's definitely Blot're. And besides, where else are you gonna go? Facebook? Phht! What are you, a geriatric Russian bot or something? 
 
 Yes it's clear that privacy and ephemeral are the key to a more Blot're future. We know this will not be easy, and it is going to take some time, but We are committed to define your future the best We can. Here are the core principals your future will be built around:
 
