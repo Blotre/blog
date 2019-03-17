@@ -6,7 +6,7 @@ description: "A glimpse at your future"
 
 Our focus in the first few months of [2018](/2018-year-in-review) has been understanding and addressing the biggest challenges facing Blot're. This means taking positions on important issues concerning the future of the internet. In this note, We'll outline Our vision and principles around building a privacy-focused future. There’s a lot to do here, and We’re committed to working openly and consulting with experts across society as We define your future.
 
-The key to this Future are two words: privacy and ephemeral. These are by far the fastest growing words among the youth of today, and We plan to latch onto them and ride them for all they are worth. Allow let us explain.
+The key to this Future are two words: privacy and ephemeral. These are by far the fastest growing words among the youth of today, and We plan to latch onto them and ride them for all they are worth. Allow us to explain.
 
 Blot're helps people connect over the internet. You can think of Blot're as the cyber equivalent of a town square. But people increasingly also want to share colors privately, in what you may better understand as the cyber equivalent of your living room. We believe that privacy-focused communications are very important for an open and friendly platform like Blot're. Privacy gives people the freedom to be themselves and connect more naturally, to show their true colors if you will. And connecting is good! All problems with the world today can be explained by a lack of connecting and a lack of color; which is to say: a lack of Blot're in your cyber living room and in all the other cyber rooms of your metaphorical cyber home. But how do We make this beautiful vision a reality? 
 
